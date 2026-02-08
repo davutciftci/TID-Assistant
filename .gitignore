@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+dist/
+build/
+.env
+
+# Project specific exclusions
+information.md
+dataset/
+
+# Backend/Frontend specific (if any remain)
+backend/node_modules/
+client/node_modules/
+backend/dist/
+client/dist/
