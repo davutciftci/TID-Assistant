@@ -1,0 +1,24 @@
+{
+  "name": "tid-asistan",
+  "version": "1.0.0",
+  "description": "TİD Asistanı, Türk İşaret Dili'ni (TİD) dijital ortamda daha erişilebilir kılmak, işaret dili öğrenimini desteklemek ve sağır/işitme engelli bireylerle iletişim bariyerlerini ortadan kaldırmak amacıyla geliştirilen bir yapay zeka destekli yardımcı araçtır.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davutciftci/TID-Assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/davutciftci/TID-Assistant/issues"
+  },
+  "homepage": "https://github.com/davutciftci/TID-Assistant#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  }
+}

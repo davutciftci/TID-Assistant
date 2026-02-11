@@ -13,3 +13,6 @@ backend/node_modules/
 client/node_modules/
 backend/dist/
 client/dist/
+
+# Documentation
+README.md
